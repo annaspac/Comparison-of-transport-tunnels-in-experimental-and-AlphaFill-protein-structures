@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- MOLE 2.5 settings used for the cytochrome P450 dataset.
+     Input and WorkingDirectory are replaced for every structure by the run script.
+     CHECK: BottleneckTolerance must match the value used in the published calculation. -->
+<Tunnels>
+  <Input>STRUCTURE.pdb</Input>
+  <WorkingDirectory>OUTPUT_DIR/</WorkingDirectory>
+  <Params>
+    <Cavity ProbeRadius="5" InteriorThreshold="1.4" IgnoreHETAtoms="1" />
+    <Tunnel SurfaceCoverRadius="10" OriginRadius="5" BottleneckRadius="1.25" BottleneckTolerance="1" MaxTunnelSimilarity="0.7"/>
+  </Params>
+  <Export>
+    <Formats PyMol="1" CSV="1" PDBProfile="1" PDBStructure="1" JSON="1"/>
+    <Types Cavities="1" Tunnels="1" />
+    <PyMol SurfaceType="Surface"/>
+  </Export>
+  <Origins Auto="0">
+    <Origin>
+      <Query>Residues("HEM")</Query>
+    </Origin>
+  </Origins>
+</Tunnels>

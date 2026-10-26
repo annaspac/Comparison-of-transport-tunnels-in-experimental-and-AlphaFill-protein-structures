@@ -1,0 +1,11 @@
+# large inputs and intermediate files (deposited on Zenodo, not in git)
+work/
+mole_out/
+*.cif
+*.pdb
+**/out/
+cache/
+results_new/
+__pycache__/
+*.pyc
+.DS_Store

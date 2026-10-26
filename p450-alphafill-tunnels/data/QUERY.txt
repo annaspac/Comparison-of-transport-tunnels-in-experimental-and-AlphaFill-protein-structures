@@ -1,0 +1,2 @@
+UniProtKB query: xref:pfam-PF00067 AND structure_3d:true AND reviewed:true
+retrieved: 2026-10-21

@@ -1,0 +1,239 @@
+dataset,uniprot,protein,gene,organism,alphafill_model,n_pdb_in_group,n_pdb_with_pathways,n_pdb_pathways,n_alphafill_pathways,pdb_ids
+CYP,A0A0Y0GRS3,Sugiol synthase,CYP76AH3,Salvia miltiorrhiza,AF-A0A0Y0GRS3-F1,1,1,39,25,7x2q
+CYP,A0A224AU14,L-tyrosine 3-nitrase,rufO,Streptomyces atratus,,5,5,42,0,8spc 8spp 9duj 9eby 9m47
+CYP,A0R4Q6,Steroid C26-monooxygenase,cyp142,Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155),AF-A0R4Q6-F1,4,4,269,8,2yoo 3zby 4tri 4uax
+CYP,A0R4Y3,Steroid C26-monooxygenase,cyp125,Mycolicibacterium smegmatis (strain ATCC 700084 / mc(2)155),AF-A0R4Y3-F1,2,2,37,7,4apy 5dqn
+CYP,A4F7P2,Cytochrome P450 family protein EryCII,eryCII,Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338),AF-A4F7P2-F1,1,1,19,8,2yjn
+CYP,A9FDB7,C-19 steroid 1alpha-hydroxylase,,Sorangium cellulosum (strain So ce56),AF-A9FDB7-F1,5,5,144,4,5liv 6f85 6f88 6f8a 6f8c
+CYP,B2HG54,Cytochrome P450 CYP105Q4,cyp105Q4,Mycobacterium marinum (strain ATCC BAA-535 / M),,1,1,9,0,8swl
+CYP,C4B644,Vitamin D(3) 25-hydroxylase,vdh,Pseudonocardia autotrophica,AF-C4B644-F1,8,8,351,15,3a4g 3a4h 3a4z 3a50 3a51 3vrm 5gnl 5gnm
+CYP,C9ZDC6,L-tryptophan 4-nitrase,txtE,Streptomyces scabiei (strain 87.22),,6,6,106,0,4l36 4tpn 4tpo 5d3u 5d40 9uyc
+CYP,E0D207,Cytochrome P450 GfsF,gfsF,Streptomyces halstedii,,1,1,39,0,5y1i
+CYP,E3VWI3,Pentalenolactone synthase,pntM,Streptomyces arenae,AF-E3VWI3-F1,9,9,99,9,5l1o 5l1p 5l1q 5l1r 5l1s 5l1t 5l1u 5l1v 5l1w
+CYP,E9QY26,Sterol 14-alpha demethylase cyp51B,cyp51B,Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293),AF-E9QY26-F1,4,4,150,26,4uyl 4uym 5frb 6cr2
+CYP,F1RE08,Prostacyclin synthase,ptgis,Danio rerio,AF-F1RE08-F1,2,2,110,16,3b98 3b99
+CYP,F2K081,Polybrominated aromatic compounds synthase,bmp7,Marinomonas mediterranea (strain ATCC 700492 / JCM 21426 / NBRC 103028 / MMB-1),,3,3,35,0,9ms3 9yv5 9yvv
+CYP,I3DZK9,Fatty-acid peroxygenase,cypC,Bacillus methanolicus (strain MGA3 / ATCC 53907),AF-I3DZK9-F1,1,1,18,20,6fyj
+CYP,O31440,Fatty-acid peroxygenase,cypC,Bacillus subtilis (strain 168),AF-O31440-F1,6,6,257,13,1izo 2zqj 2zqx 7wyg 8hkd 9iy1
+CYP,O31785,Polyketide biosynthesis cytochrome P450 PksS,pksS,Bacillus subtilis (strain 168),AF-O31785-F1,1,1,22,13,4yzr
+CYP,O34374,Putative cytochrome P450 YjiB,yjiB,Bacillus subtilis (strain 168),AF-O34374-F1,1,1,14,22,4rm4
+CYP,O34926,Pulcherriminic acid synthase,cypX,Bacillus subtilis (strain 168),AF-O34926-F1,4,4,111,6,3nc3 3nc5 3nc6 3nc7
+CYP,O64989,Steroid (22S)-hydroxylase,CYP90B1,Arabidopsis thaliana,AF-O64989-F1,4,4,48,21,6a15 6a16 6a17 6a18
+CYP,O87605,Cytochrome P450 monooxygenase PikC,pikC,Streptomyces venezuelae,AF-O87605-F1,19,19,652,8,2bvj 2c6h 2c7x 2ca0 2cd8 2vz7 2vzm 2whw 2wi9 3zk5 3zpi 4b7d 4b7s 4bf4 4umz 7xbm 7xbn 7xbo 8gue
+CYP,P00178,Cytochrome P450 2B4,CYP2B4,Oryctolagus cuniculus,AF-P00178-F1,21,21,932,9,1po5 1suo 2bdm 2q6n 3g5n 3g93 3kw4 3me6 3mvr 3r1a 3r1b 3tk3 3tmz 3uas 4h1n 4jlt 4mgj 5em4 5iut 5iuz 6bww
+CYP,P00179,Cytochrome P450 2C5,CYP2C5,Oryctolagus cuniculus,AF-P00179-F1,3,3,93,5,1dt6 1n6b 1nr6
+CYP,P00183,Camphor 5-monooxygenase,camC,Pseudomonas putida,AF-P00183-F1,129,129,1168,4,1akd 1c8j 1cp4 1dz4 1dz6 1dz8 1dz9 1geb 1gek 1gem 1gjm 1iwi 1iwj 1iwk 1j51 1k2o 1lwl 1mpw 1noo 1o76 1p2y 1p7r 1pha 1phb 1phc 1phd 1phe 1phf 1phg 1qmq 1re9 1rf9 1t85 1t86 1t87 1t88 1uyu 1yrc 1yrd 25bv 2a1m 2a1n 2a1o 2cp4 2cpp 2fe6 2fer 2feu 2frz 2gqx 2gr6 2h7q 2h7r 2h7s 2l8m 2lqd 2m56 2qbl 2qbm 2qbn 2qbo 2z97 2zaw 2zax 2zuh 2zui 2zuj 2zwt 2zwu 3cp4 3cpp 3fwf 3fwg 3fwi 3fwj 3l61 3l62 3l63 3oia 3ol5 3p6m 3p6n 3p6o 3p6p 3p6q 3p6r 3p6s 3p6t 3p6u 3p6v 3p6w 3p6x 3w9c 3wrh 3wri 3wrj 3wrk 3wrl 3wrm 4cp4 4cpp 4ek1 4g3r 4jws 4jwu 4jx1 4kky 4l49 4l4a 4l4b 4l4c 4l4d 4l4e 4l4f 4l4g 5cp4 5cpp 5gxg 5ik1 5wk7 5wk9 6cp4 6cpp 6nbl 6we6 6wfl 7cpp 8cpp 9l7r
+CYP,P00189,"Cholesterol side-chain cleavage enzyme, mitochondrial",CYP11A1,Bos taurus,AF-P00189-F1,1,1,109,6,3mzs
+CYP,P00191,Steroid 21-hydroxylase,CYP21,Bos taurus,AF-P00191-F1,1,1,109,15,3qz1
+CYP,P04798,Cytochrome P450 1A1,CYP1A1,Homo sapiens,AF-P04798-F1,6,6,419,11,4i8v 6dwm 6dwn 6o5y 6udl 6udm
+CYP,P05093,"Steroid 17-alpha-hydroxylase/17,20 lyase",CYP17A1,Homo sapiens,AF-P05093-F1,17,17,903,23,3ruk 3swz 4nkv 4nkw 4nkx 4nky 4nkz 5irq 5irv 5uys 6chi 6cir 6ciz 6wr0 6wr1 6ww0 8fda
+CYP,P05108,"Cholesterol side-chain cleavage enzyme, mitochondrial",CYP11A1,Homo sapiens,AF-P05108-F1,4,4,209,11,3n9y 3n9z 3na0 3na1
+CYP,P05177,Cytochrome P450 1A2,CYP1A2,Homo sapiens,AF-P05177-F1,1,1,7,7,2hi4
+CYP,P05181,Cytochrome P450 2E1,CYP2E1,Homo sapiens,AF-P05181-F1,6,6,198,10,3e4e 3e6i 3gph 3koh 3lc4 3t3z
+CYP,P08684,Cytochrome P450 3A4,CYP3A4,Homo sapiens,AF-P08684-F1,122,122,3294,22,1tqn 1w0e 1w0f 1w0g 2j0d 2v0m 3nxu 3tjs 3ua1 4d6z 4d75 4d78 4d7d 4i3q 4i4g 4i4h 4k9t 4k9u 4k9v 4k9w 4k9x 4ny4 5a1p 5a1r 5g5j 5te8 5vc0 5vcc 5vcd 5vce 5vcg 6bcz 6bd5 6bd6 6bd7 6bd8 6bdh 6bdi 6bdk 6bdm 6da2 6da3 6da5 6da8 6daa 6dab 6dac 6dag 6daj 6dal 6ma6 6ma7 6ma8 6oo9 6ooa 6oob 6une 6ung 6unh 6uni 6unj 6unk 6unl 6unm 7ks8 7ksa 7kvh 7kvi 7kvj 7kvk 7kvm 7kvn 7kvo 7kvp 7kvq 7kvs 7lxl 7uay 7uaz 7uf9 7ufa 7ufb 7ufc 7ufd 7ufe 7uff 8dyc 8ewd 8ewe 8ewl 8ewm 8ewn 8ewp 8ewq 8ewr 8ews 8exb 8so1 8so2 8spd 9bbb 9bv5 9bv6 9bv7 9bv8 9bv9 9bva 9bvb 9bvc 9cor 9cos 9cot 9cou 9cov 9cow 9cox 9coy 9gk1 9ms1 9plj 9plk 9yk4
+CYP,P08686,Steroid 21-hydroxylase,CYP21A2,Homo sapiens,AF-P08686-F1,2,2,160,22,4y8w 5vbu
+CYP,P0A515,Cytochrome P450 121,cyp121,Mycobacterium bovis (strain ATCC BAA-935 / AF2122/97),AF-P0A515-F1,1,1,10,24,5edt
+CYP,P0DPQ7,"Aromatic O-demethylase, cytochrome P450 subunit",gcoA,Amycolatopsis sp. (strain ATCC 39116 / 75iv2),AF-P0DPQ7-F1,24,20,172,11,6hqk 6hql 6hqm 6hqn 6hqo 6hqp 6hqq 6hqr 6hqs 6hqt 6ych 6yci 6ycj 6yck 6ycl 6ycm 6ycn 6yco 6ycp 6yct
+CYP,P10613,Lanosterol 14-alpha demethylase,ERG11,Candida albicans (strain SC5314 / ATCC MYA-2876),AF-P10613-F1,3,3,69,9,5fsa 5tz1 5v5z
+CYP,P10614,Lanosterol 14-alpha demethylase CYP51,ERG11,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),AF-P10614-F1,9,9,131,13,4lxj 5eqb 7ry8 7ry9 7rya 7ryb 7ryx 8dl4 8vk6
+CYP,P10632,Cytochrome P450 2C8,CYP2C8,Homo sapiens,AF-P10632-F1,5,5,179,24,1pq2 2nnh 2nni 2nnj 2vn0
+CYP,P10635,Cytochrome P450 2D6,CYP2D6,Homo sapiens,AF-P10635-F1,14,14,1080,21,2f9q 3qm4 3tbg 3tda 4wnt 4wnu 4wnv 4wnw 4xry 4xrz 5tft 5tfu 6csb 6csd
+CYP,P11509,Cytochrome P450 2A6,CYP2A6,Homo sapiens,AF-P11509-F1,11,11,847,7,1z10 1z11 2fdu 2fdv 2fdw 2fdy 3ebs 3t3q 3t3r 4ejj 4rui
+CYP,P11511,Aromatase,CYP19A1,Homo sapiens,AF-P11511-F1,11,11,86,9,3eqm 3s79 3s7s 4gl5 4gl7 4kq8 5jkv 5jkw 5jl6 5jl7 5jl9
+CYP,P11712,Cytochrome P450 2C9,CYP2C9,Homo sapiens,AF-P11712-F1,15,15,658,18,1og2 1og5 1r9o 4nz2 5a5i 5a5j 5k7k 5w0c 5x23 5x24 5xxi 6vlt 7rl2 8vx0 8vz7
+CYP,P14779,Bifunctional cytochrome P450/NADPH--P450 reductase,cyp102A1,Priestia megaterium (strain ATCC 14581 / DSM 32 / CCUG 1817 / JCM 2506 / NBRC 15308 / NCIMB 9376 / NCTC 10342 / NRRL B-14308 / VKM B-512 / Ford 19),AF-P14779-F1,191,188,10250,42,1bu7 1bvy 1fag 1fah 1jme 1jpz 1p0v 1p0w 1p0x 1smi 1smj 1yqo 1yqp 1zo4 1zo9 1zoa 2bmh 2hpd 2ij2 2ij3 2ij4 2j1m 2j4s 2nnb 2uwh 2x7y 2x80 3ben 3cbd 3dgi 3ekb 3ekd 3ekf 3hf2 3kx3 3kx4 3kx5 3m4v 3npl 3psx 3wsp 4dqk 4dql 4dtw 4dty 4dtz 4du2 4dua 4dub 4duc 4dud 4due 4duf 4h23 4h24 4hgf 4hgg 4hgh 4hgi 4hgj 4kew 4key 4kf0 4kf2 4kpa 4kpb 4o4p 4rsn 4wg2 4zf6 4zf8 4zfa 4zfb 5b2u 5b2v 5b2w 5b2x 5b2y 5dyp 5dyz 5e78 5e7y 5e9z 5jq2 5jqu 5jqv 5jtd 5og9 5ucw 5xa3 5xhj 5zis 5zlh 6h1o 6h1s 6hn8 6iao 6jlv 6jmh 6jmw 6jo1 6js8 6jvc 6jzs 6k24 6k3q 6k58 6k9s 6l1a 6l1b 7ckn 7con 7coo 7cp8 7cvr 7cx6 7cx8 7czi 7d0t 7d0u 7d1f 7e46 7egn 7w97 7w9d 7w9j 7wdd 7wde 7wdg 7wdh 7wdi 7wg0 7wy1 7wy2 7wy3 7wy4 7xzk 7y0p 7y0q 7y0r 7y0s 7y0t 7y0u 7y9j 7y9k 7y9l 7y9m 7yd9 7yda 7ydb 7ydc 7ydd 7yde 7ydl 7yft 7yjd 7yje 7yjf 7yjg 7yjh 8dme 8dmg 8hon 8hoo 8hop 8hoq 8hor 8hos 8hot 8hou 8jc3 8jc4 8q2f 8qze 8qzf 8yay 8yaz 8yb0 8yb1 8yb2 8yb3 9iss 9ist 9isu 9kgp 9kt5 9wma 9wmb
+CYP,P15128,Cytochrome P450 4B1,CYP4B1,Oryctolagus cuniculus,AF-P15128-F1,3,3,38,13,5t6q 6c93 6c94
+CYP,P15538,"Cytochrome P450 11B1, mitochondrial",CYP11B1,Homo sapiens,AF-P15538-F1,2,2,46,9,6m7x 7e7f
+CYP,P18326,Vitamin D3 dihydroxylase,cyp105A1,Streptomyces griseolus,AF-P18326-F1,19,19,153,7,2zbx 2zby 2zbz 3cv8 3cv9 5x7e 9jhw 9ji1 9ji6 9jip 9jkw 9jkz 9jl5 9kw2 9kw3 9kw4 9kw5 9ule 9vl0
+CYP,P19099,"Cytochrome P450 11B2, mitochondrial",CYP11B2,Homo sapiens,AF-P19099-F1,7,7,1385,16,4dvq 4fdh 4zgx 6xz8 6xz9 7m8i 7m8v
+CYP,P20813,Cytochrome P450 2B6,CYP2B6,Homo sapiens,AF-P20813-F1,13,13,431,10,3ibd 3qoa 3qu8 3ua5 4i91 4rql 4rrt 4zv8 5uap 5uda 5uec 5ufg 5wbg
+CYP,P20815,Cytochrome P450 3A5,CYP3A5,Homo sapiens,AF-P20815-F1,6,6,545,16,5veu 6mjm 7lad 7sv2 8sg5 9ms2
+CYP,P22680,Cytochrome P450 7A1,CYP7A1,Homo sapiens,AF-P22680-F1,3,3,133,19,3dax 3sn5 3v8d
+CYP,P23295,NADP nitrous oxide-forming nitric oxide reductase,CYP55A1,Fusarium oxysporum,AF-P23295-F1,27,27,681,20,1cl6 1cmj 1cmn 1ehe 1ehf 1ehg 1f24 1f25 1f26 1ged 1gei 1gej 1jfb 1jfc 1rom 1ulw 1xqd 2rom 5y5f 5y5g 5y5h 5y5i 5y5j 5y5k 5y5l 5y5m 7dvo
+CYP,P24462,Cytochrome P450 3A7,CYP3A7,Homo sapiens,AF-P24462-F1,2,2,220,21,7mk8 8gk3
+CYP,P33006,Cytochrome P450-terp,cyp108,Pseudomonas sp,AF-P33006-F1,4,4,53,7,1cpt 8euh 8euk 8eul
+CYP,P33260,Cytochrome P450 2C18,CYP2C18,Homo sapiens,AF-P33260-F1,2,1,1,7,2h6p
+CYP,P33261,Cytochrome P450 2C19,CYP2C19,Homo sapiens,AF-P33261-F1,1,1,134,11,4gqs
+CYP,P48635,Erythromycin C-12 hydroxylase,eryK,Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338),AF-P48635-F1,6,6,104,29,2jjn 2jjo 2jjp 2wio 2xfh 3zkp
+CYP,P50859,Lanosterol 14-alpha demethylase,ERG11,Candida glabrata (strain ATCC 2001 / BCRC 20586 / JCM 3761 / NBRC 0622 / NRRL Y-65 / CBS 138),AF-P50859-F1,1,1,12,9,5jlc
+CYP,P53554,Biotin biosynthesis cytochrome P450,bioI,Bacillus subtilis (strain 168),AF-P53554-F1,3,3,230,7,3ejb 3ejd 3eje
+CYP,P9WPL1,Cytochrome P450 144,cyp144,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPL1-F1,1,1,32,21,5hdi
+CYP,P9WPL3,Cytochrome P450 143,cyp143,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPL3-F1,3,3,51,18,8amo 8amq 8ckn
+CYP,P9WPL5,Steroid C26-monooxygenase,cyp142,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPL5-F1,7,7,128,15,2xkr 7p5t 7qjl 7qq7 8a6w 8a9p 8s53
+CYP,P9WPL7,Putative cytochrome P450 141,cyp141,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPL7-F1,1,1,8,13,8c9i
+CYP,P9WPN5,Cytochrome P450 130,cyp130,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPN5-F1,5,5,133,20,2uuq 2uvn 2wgy 2wh8 2whf
+CYP,P9WPN9,Putative cytochrome P450 126,cyp126,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPN9-F1,4,0,0,10,
+CYP,P9WPP1,Steroid C26-monooxygenase,cyp125,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPP1-F1,23,23,885,9,2x5l 2x5w 2xc3 2xn8 3ivy 3iw0 3iw1 3iw2 7qke 7qnn 7qwn 7r1i 7r3u 7yxf 7zgl 7zic 7zlt 7zlz 7zqr 7zsu 7zt0 7zxd 8s4m
+CYP,P9WPP3,Methyl-branched lipid omega-hydroxylase,cyp124,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPP3-F1,9,9,136,7,2wm4 2wm5 6t0f 6t0g 6t0h 6t0j 6t0k 6t0l 7zb9
+CYP,P9WPP7,Mycocyclosin synthase,cyp121,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPP7-F1,58,58,1036,21,1n40 1n4g 2ij5 2ij7 3cxv 3cxx 3cxy 3cxz 3cy0 3cy1 3g5f 3g5h 4g1x 4g2g 4g44 4g45 4g46 4g47 4g48 4ict 4ips 4ipw 4iq7 4iq9 5ibd 5ibe 5ibf 5ibg 5ibh 5ibi 5ibj 5o4k 5o4l 5op9 5opa 5wp2 6geo 6geq 6rq0 6rq1 6rq3 6rq5 6rq6 6rq8 6rq9 6rqb 6rqd 6rqe 6te7 6tet 6tev 6upg 6upi 7nqm 7nqn 7nqo 8tdp 8tdq
+CYP,P9WPP9,Sterol 14alpha-demethylase,cyp51,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),AF-P9WPP9-F1,12,12,201,12,1e9x 1ea1 1h5z 1u13 1x8v 2bz9 2ci0 2cib 2vku 2w09 2w0a 2w0b
+CYP,Q00441,6-deoxyerythronolide B hydroxylase,eryF,Saccharopolyspora erythraea (strain ATCC 11635 / DSM 40517 / JCM 4748 / NBRC 13426 / NCIMB 8594 / NRRL 2338),AF-Q00441-F1,9,9,70,4,1egy 1eup 1jin 1jio 1jip 1oxa 1z8o 1z8p 1z8q
+CYP,Q06069,Cytochrome P450(MEG),cyp106A2,Priestia megaterium,AF-Q06069-F1,3,2,44,20,4yt3 5iki
+CYP,Q09128,"1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial",Cyp24a1,Rattus norvegicus,AF-Q09128-F1,2,2,120,23,3k9v 3k9y
+CYP,Q0SCI3,4-methoxybenzoate O-demethylase PbdA,pbdA,Rhodococcus jostii (strain RHA1),,3,3,86,0,9g9q 9g9r 9g9s
+CYP,Q16647,Prostacyclin synthase,PTGIS,Homo sapiens,AF-Q16647-F1,2,2,73,18,2iag 3b6h
+CYP,Q16678,Cytochrome P450 1B1,CYP1B1,Homo sapiens,AF-Q16678-F1,2,2,35,16,3pm0 6iq5
+CYP,Q16696,Cytochrome P450 2A13,CYP2A13,Homo sapiens,AF-Q16696-F1,8,8,765,15,2p85 2pg5 2pg6 2pg7 3t3s 4ejg 4ejh 4eji
+CYP,Q16850,Lanosterol 14-alpha demethylase,CYP51A1,Homo sapiens,AF-Q16850-F1,10,10,502,16,3jus 3juv 3ld6 4uhi 4uhl 6q2t 6uez 8sbi 8ss0 8yqo
+CYP,Q40778,Allene oxide synthase CYP74A2,CYP74A2,Parthenium argentatum,AF-Q40778-F1,3,3,38,16,3dam 3dan 3dbm
+CYP,Q55080,Cytochrome P450 119,cyp119,Sulfolobus acidocaldarius (strain ATCC 33909 / DSM 639 / JCM 8929 / NBRC 15157 / NCIMB 11770),AF-Q55080-F1,11,11,299,8,1f4t 1f4u 1io7 1io8 1io9 4tt5 4tuv 4wpd 4wqj 5bv5 7uor
+CYP,Q59523,Mycinamicin IV hydroxylase/epoxidase,mycG,Micromonospora griseorubida,AF-Q59523-F1,9,9,348,11,2y46 2y5n 2y5z 2y98 2yca 2ygx 3zsn 4aw3 5uhu
+CYP,Q59990,Putative cytochrome P450 120,cyp120,Synechocystis sp. (strain ATCC 27184 / PCC 6803 / Kazusa),AF-Q59990-F1,2,2,49,18,2ve3 2ve4
+CYP,Q6N8N2,Cytochrome p450 CYP199A2,cyp199a2,Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA009),AF-Q6N8N2-F1,2,2,18,3,2fr7 4dnj
+CYP,Q6TBX7,"Carotene epsilon-monooxygenase, chloroplastic",CYP97C1,Arabidopsis thaliana,AF-Q6TBX7-F1,1,1,111,19,6l8h
+CYP,Q6VVX0,Vitamin D 25-hydroxylase,CYP2R1,Homo sapiens,AF-Q6VVX0-F1,3,3,69,8,3c6g 3czh 3dl9
+CYP,Q6WG30,Taxadiene 5-alpha-hydroxylase,T5aOH,Taxus cuspidata,AF-Q6WG30-F1,2,2,33,19,8x1w 8x3e
+CYP,Q70KH6,Luteothin monooxygenase,aurH,Streptomyces thioluteus,,4,4,96,0,3p3l 3p3o 3p3x 3p3z
+CYP,Q7Z1V1,Sterol 14-alpha demethylase,CYP51,Trypanosoma cruzi (strain CL Brener),AF-Q7Z1V1-F1,21,21,734,15,2wuz 2wx2 3k1o 3khm 3ksw 3zg2 3zg3 4bmm 4by0 4c0c 4c27 4c28 4ck8 4ck9 4cka 4coh 4h6o 4uqh 4uvr 5ajr 6fmo
+CYP,Q81BF4,Bifunctional cytochrome P450/NADPH--P450 reductase,CYP102A5,Bacillus cereus (strain ATCC 14579 / DSM 31 / CCUG 7414 / JCM 2152 / NBRC 15305 / NCIMB 9373 / NCTC 2599 / NRRL B-3711),AF-Q81BF4-F1,1,1,326,87,8hkj
+CYP,Q825I8,Pentalenic acid synthase,cyp28,Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NBRC 14893 / NCIMB 12804 / NRRL 8165 / MA-4680),AF-Q825I8-F1,1,1,9,13,4ubs
+CYP,Q83WF5,Mycinamicin VIII C21 methyl hydroxylase,mycCI,Micromonospora griseorubida,AF-Q83WF5-F1,1,1,42,17,5foi
+CYP,Q8RN03,Cytochrome P450 165C4,cyp165C4,Amycolatopsis orientalis,AF-Q8RN03-F1,1,1,41,18,1ued
+CYP,Q8RN04,Cytochrome P450 165B3,cyp165B3,Amycolatopsis orientalis,AF-Q8RN04-F1,3,3,46,11,1lfk 1lg9 1lgf
+CYP,Q8VQF6,"1,8-cineole 2-endo-monooxygenase",cinA,Citrobacter braakii,AF-Q8VQF6-F1,9,9,296,7,1t2b 3bdz 3be0 4fb2 4fmx 4fyz 4l6g 4l77 4lht
+CYP,Q93VK5,"Protein LUTEIN DEFICIENT 5, chloroplastic",CYP97A3,Arabidopsis thaliana,AF-Q93VK5-F1,4,4,78,26,6j94 6j95 6l8i 6l8j
+CYP,Q94IP1,Trans-cinnamate 4-monooxygenase,CYP73A33,Sorghum bicolor,AF-Q94IP1-F1,1,1,14,6,6vby
+CYP,Q96242,"Allene oxide synthase, chloroplastic",CYP74A,Arabidopsis thaliana,AF-Q96242-F1,7,7,196,18,2rch 2rcl 2rcm 3cli 3dsi 3dsj 3dsk
+CYP,Q972I2,Cytochrome P450 119,cyp119,Sulfurisphaera tokodaii (strain DSM 16993 / JCM 10545 / NBRC 100140 / 7),AF-Q972I2-F1,2,2,23,8,1ue8 3b4x
+CYP,Q9FCA6,Biflaviolin synthase CYP158A2,cyp158a2,Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),AF-Q9FCA6-F1,7,7,205,26,1s1f 1se6 1t93 2d09 2d0e 3tzo 5de9
+CYP,Q9K498,Bifunctional albaflavenone monooxygenase/terpene synthase,,Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),AF-Q9K498-F1,2,2,57,8,3dbg 3el3
+CYP,Q9KIZ4,Epothilone C/D epoxidase,cyp167A1,Sorangium cellulosum,AF-Q9KIZ4-F1,3,3,31,25,1pkf 1q5d 1q5e
+CYP,Q9KZF5,Biflaviolin synthase CYP158A1,cyp158a1,Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),AF-Q9KZF5-F1,3,3,115,14,2dkk 2nz5 2nza
+CYP,Q9UNU6,7-alpha-hydroxycholest-4-en-3-one 12-alpha-hydroxylase,CYP8B1,Homo sapiens,AF-Q9UNU6-F1,2,2,46,25,7lyx 8eoh
+CYP,Q9Y6A2,Cholesterol 24-hydroxylase,CYP46A1,Homo sapiens,AF-Q9Y6A2-F1,21,21,341,20,2q9f 2q9g 3mdm 3mdr 3mdt 3mdv 4enh 4fia 4j14 7lrl 7ls3 7ls4 7n3l 7n3m 7n6f 9nna 9nne 9nni 9nnj 9nnm 9nno
+CYP,Q9ZAU3,Cytochrome P-450 monooxygenase DoxA,doxA,Streptomyces peucetius,AF-Q9ZAU3-F1,3,3,137,21,9o35 9s7f 9si5
+CYP,Q9ZHQ1,20-oxo-5-O-mycaminosyltylactone 23-monooxygenase,tylH1,Streptomyces fradiae,AF-Q9ZHQ1-F1,1,1,30,53,6b11
+CYP,S4UX02,Ferruginol synthase,CYP76AH1,Salvia miltiorrhiza,AF-S4UX02-F1,3,3,46,18,5ylw 5ym3 7cb9
+Reviewed,A0A088CB91,Alpha/beta hydrolase,EST1,Rhodococcus sp. ECU1013,,1,1,2,0,4rnc
+Reviewed,A0A0J9X241,3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC,,Moraxella catarrhalis BC8,,1,1,1,0,4umf
+Reviewed,A0ACD6B933,,,,,1,0,0,0,
+Reviewed,A0ACD6B934,,,,,2,0,0,0,
+Reviewed,A0L5S6,Ion transport protein,,Magnetococcus marinus (strain ATCC BAA-1437 / JCM 17883 / MC-1),,1,1,1,0,5hvx
+Reviewed,A0NLY7,Isatin hydrolase,,Roseibium aggregatum (strain ATCC 25650 / DSM 13394 / JCM 20685 / NBRC 16684 / NCIMB 2208 / IAM 12614 / B1),,1,1,2,0,4j0n
+Reviewed,A2XDA1,"15-cis-phytoene desaturase, chloroplastic/chromoplastic",PDS1,Oryza sativa subsp. indica,AF-A2XDA1-F1,1,1,4,12,5mog
+Reviewed,A6ZSR0,sterol 14alpha-demethylase,ERG11,Saccharomyces cerevisiae (strain YJM789),,1,1,1,0,5esi
+Reviewed,B7JBP8,Sulfide-quinone reductase,,Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP 104768 / NCIMB 8455),AF-B7JBP8-F1,1,1,1,7,3t31
+Reviewed,B7K2Q5,Lipoxygenase domain-containing protein,,Rippkaea orientalis (strain PCC 8801 / RF-1),,1,1,1,0,5ek8
+Reviewed,C7FF04,Polyphenol oxidase 3,PPO3,Agaricus bisporus,,1,1,1,0,2y9w
+Reviewed,D0CY60,Dimethylsulfoniopropionate lyase DddQ,dddQ,Ruegeria lacuscaerulensis (strain DSM 11314 / KCTC 2953 / ITI-1157),,1,1,2,0,5jsp
+Reviewed,D1MX73,(S)-hydroxynitrile lyase,bmhnl,Baliospermum montanum,,1,1,1,0,3wwo
+Reviewed,E9AE57,Fumarate hydratase 2,FH2,Leishmania major,,1,1,1,0,5l2r
+Reviewed,F8W463,P2X purinoceptor 4a,p2rx4a,Danio rerio,,3,3,3,0,4dw0 4dw1 5wzy
+Reviewed,G1K3P4,Lectin-like fold protein,,Agaricus bisporus,,1,0,0,0,
+Reviewed,G1SNM3,Transient receptor potential cation channel subfamily V member 2,TRPV2,Oryctolagus cuniculus,,1,1,1,0,5an8
+Reviewed,H6QM90,Polymerase basic protein 2,PB2,Influenza A virus,,1,1,3,0,4wsb
+Reviewed,H6QM91,RNA-directed RNA polymerase catalytic subunit,PB1,Influenza A virus,,1,1,3,0,4wsb
+Reviewed,H6QM92,Polymerase acidic protein,PA,Influenza A virus,,1,1,2,0,4wsb
+Reviewed,I6Y3Q0,Acyl-CoA dehydrogenase FadE27,fadE27,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),,1,0,0,0,
+Reviewed,I6YCA3,Acyl-CoA dehydrogenase FadE26,fadE26,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),,1,1,1,0,4x28
+Reviewed,O42629,Fructosyl amine-oxygen oxidoreductase I,,Aspergillus fumigatus,,1,1,1,0,4wct
+Reviewed,O64411,Polyamine oxidase 1,MPAO1,Zea mays,,1,1,1,0,1b37
+Reviewed,O75311,Glycine receptor subunit alpha-3,GLRA3,Homo sapiens,,1,1,1,0,5cfb
+Reviewed,O75762,Transient receptor potential cation channel subfamily A member 1,TRPA1,Homo sapiens,,1,1,1,0,3j9p
+Reviewed,O75844,CAAX prenyl protease 1 homolog,ZMPSTE24,Homo sapiens,,1,1,1,0,4aw6
+Reviewed,O94219,Aryl-alcohol oxidase,aao,Pleurotus eryngii,,1,1,1,0,3fim
+Reviewed,P01837,Immunoglobulin kappa constant,Igkc,Mus musculus,,11,3,3,0,1r3k 1r3l 2boc
+Reviewed,P01868,Ig gamma-1 chain C region secreted form,Ighg1,Mus musculus,,5,0,0,0,
+Reviewed,P02766,Transthyretin,TTR,Homo sapiens,,1,1,1,0,4n86
+Reviewed,P03959,Potassium-transporting ATPase potassium-binding subunit,kdpA,Escherichia coli (strain K12),,1,1,2,0,5mrw
+Reviewed,P03960,Potassium-transporting ATPase ATP-binding subunit,kdpB,Escherichia coli (strain K12),,1,1,1,0,5mrw
+Reviewed,P03961,Potassium-transporting ATPase KdpC subunit,kdpC,Escherichia coli (strain K12),,1,0,0,0,
+Reviewed,P04798,Cytochrome P450 1A1,CYP1A1,Homo sapiens,AF-P04798-F1,1,1,3,4,4i8v
+Reviewed,P05093,"Steroid 17-alpha-hydroxylase/17,20 lyase",CYP17A1,Homo sapiens,AF-P05093-F1,7,7,29,6,3ruk 3swz 4nkv 4nkw 4nkx 4nky 4nkz
+Reviewed,P05108,"Cholesterol side-chain cleavage enzyme, mitochondrial",CYP11A1,Homo sapiens,,4,4,15,0,3n9y 3n9z 3na0 3na1
+Reviewed,P05164,Myeloperoxidase,MPO,Homo sapiens,,1,1,1,0,5mfa
+Reviewed,P05181,Cytochrome P450 2E1,CYP2E1,Homo sapiens,AF-P05181-F1,6,6,22,1,3e4e 3e6i 3gph 3koh 3lc4 3t3z
+Reviewed,P06624,Lens fiber major intrinsic protein,MIP,Bos taurus,,1,1,1,0,1ymg
+Reviewed,P08684,Cytochrome P450 3A4,CYP3A4,Homo sapiens,AF-P08684-F1,24,24,96,2,1tqn 1w0e 1w0f 1w0g 2j0d 2v0m 3nxu 3tjs 3ua1 4d6z 4d75 4d78 4d7d 4i3q 4i4g 4i4h 4k9t 4k9u 4k9v 4k9w 4k9x 4ny4 5a1p 5a1r
+Reviewed,P08686,Steroid 21-hydroxylase,CYP21A2,Homo sapiens,,1,1,4,0,4y8w
+Reviewed,P09960,Leukotriene A-4 hydrolase,LTA4H,Homo sapiens,,2,2,4,0,2r59 5nia
+Reviewed,P0A110,"Naphthalene 1,2-dioxygenase system, large oxygenase component",ndoB,Pseudomonas putida,,1,1,1,0,1ndo
+Reviewed,P0A112,"Naphthalene 1,2-dioxygenase system, small oxygenase component",ndoC,Pseudomonas putida,,1,0,0,0,
+Reviewed,P0A333,pH-gated potassium channel KcsA,kcsA,Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145),,2,2,2,0,1s5h 2hfe
+Reviewed,P0A334,pH-gated potassium channel KcsA,kcsA,Streptomyces lividans,,48,48,48,0,1bl8 1j95 1jq1 1jvm 1k4c 1k4d 1r3i 1r3j 1r3k 1r3l 2bob 2boc 2dwd 2dwe 2h8p 2hg5 2hjf 2hvj 2hvk 2ih1 2ih3 2itc 2itd 2jk5 2nlj 2p7t 2qto 2w0f 3eff 3f5w 3gb7 3ifx 3iga 3ogc 3or6 3or7 3pjs 3stl 3stz 4lbe 4lcu 4uuj 5ebl 5ebm 5ebw 5ec1 5ec2 5j9p
+Reviewed,P0A3G2,Haloalkane dehalogenase,dhaA,Rhodococcus rhodochrous,,2,2,4,0,3fbw 4e46
+Reviewed,P0A3G3,Haloalkane dehalogenase,dhaA,Rhodococcus sp,,2,2,4,0,3fwh 3g9x
+Reviewed,P0A915,Outer membrane protein W,ompW,Escherichia coli (strain K12),,2,2,2,0,2f1t 2f1v
+Reviewed,P0AEX9,Maltose/maltodextrin-binding periplasmic protein,malE,Escherichia coli (strain K12),,1,0,0,0,
+Reviewed,P0C7B7,Cys-loop ligand-gated ion channel,,Dickeya chrysanthemi,,1,0,0,0,
+Reviewed,P10109,"Adrenodoxin, mitochondrial",FDX1,Homo sapiens,,4,2,2,0,3n9z 3na1
+Reviewed,P10632,Cytochrome P450 2C8,CYP2C8,Homo sapiens,AF-P10632-F1,5,5,32,4,1pq2 2nnh 2nni 2nnj 2vn0
+Reviewed,P10635,Cytochrome P450 2D6,CYP2D6,Homo sapiens,AF-P10635-F1,9,9,54,3,3qm4 3tbg 3tda 4wnt 4wnu 4wnv 4wnw 4xry 4xrz
+Reviewed,P10970,Large ribosomal subunit protein uL22,rpl22,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,1,1,0,1jj2
+Reviewed,P10971,Large ribosomal subunit protein uL29,rpl29,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P10972,Large ribosomal subunit protein uL24,rpl24,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P11509,Cytochrome P450 2A6,CYP2A6,Homo sapiens,AF-P11509-F1,10,10,12,1,1z10 1z11 2fdu 2fdv 2fdw 2fdy 3ebs 3t3q 3t3r 4ejj
+Reviewed,P11511,Aromatase,CYP19A1,Homo sapiens,AF-P11511-F1,6,6,13,1,3eqm 3s79 3s7s 4gl5 4gl7 4kq8
+Reviewed,P11597,Cholesteryl ester transfer protein,CETP,Homo sapiens,,1,1,2,0,2obd
+Reviewed,P11712,Cytochrome P450 2C9,CYP2C9,Homo sapiens,AF-P11712-F1,4,4,24,2,1og2 1og5 1r9o 4nz2
+Reviewed,P12732,Large ribosomal subunit protein uL23,rpl23,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P12733,Large ribosomal subunit protein eL18,rpl18e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P12734,Large ribosomal subunit protein eL21,rpl21e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P12735,Large ribosomal subunit protein uL4,rpl4,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,1,1,0,1jj2
+Reviewed,P12736,Large ribosomal subunit protein eL32,rpl32e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P12737,Large ribosomal subunit protein uL15,rpl15,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P12743,Large ribosomal subunit protein eL8,rpl7ae,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P13423,Protective antigen,pagA,Bacillus anthracis,,1,1,1,0,3j9c
+Reviewed,P14116,Large ribosomal subunit protein eL24,rpl24e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P14119,Large ribosomal subunit protein eL19,rpl19e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P14121,Large ribosomal subunit protein uL30,rpl30,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P14123,Large ribosomal subunit protein uL18,rpl18,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P14124,Large ribosomal subunit protein uL5,rpl5,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P14135,Large ribosomal subunit protein uL6,rpl6,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P15825,Large ribosomal subunit protein uL10,rpl10,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P18138,Large ribosomal subunit protein eL31,rpl31e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P19099,"Cytochrome P450 11B2, mitochondrial",CYP11B2,Homo sapiens,AF-P19099-F1,3,3,10,1,4dvq 4fdh 4zgx
+Reviewed,P20276,Large ribosomal subunit protein uL2,rpl2,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P20279,Large ribosomal subunit protein uL3,rpl3,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P20813,Cytochrome P450 2B6,CYP2B6,Homo sapiens,AF-P20813-F1,6,6,16,1,3ibd 3qoa 3qu8 3ua5 5uap 5uda
+Reviewed,P22450,Large ribosomal subunit protein uL14,rpl14,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P22452,Large ribosomal subunit protein eL39,rpl39e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,1,1,0,1jj2
+Reviewed,P22680,Cytochrome P450 7A1,CYP7A1,Homo sapiens,,3,3,20,0,3dax 3sn5 3v8d
+Reviewed,P23415,Glycine receptor subunit alpha-1,GLRA1,Homo sapiens,,1,1,1,0,4x5t
+Reviewed,P26672,Protein OPG176,OPG176,Vaccinia virus (strain Western Reserve),,1,1,1,0,5ezu
+Reviewed,P27652,Coelenterazine h 2-monooxygenase,,Renilla reniformis,,1,1,1,0,2psf
+Reviewed,P29033,Gap junction beta-2 protein,GJB2,Homo sapiens,,1,1,1,0,2zw3
+Reviewed,P29198,Large ribosomal subunit protein uL13,rpl13,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P32410,Large ribosomal subunit protein eL37,rpl37e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P32411,Large ribosomal subunit protein eL42,rpl44e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P33247,Squalene--hopene cyclase,shc,Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC 27009 / DSM 446 / BCRC 14685 / JCM 5260 / KCTC 1825 / NBRC 15652 / NCIMB 11725 / NRRL B-14509 / 104-IA),,1,1,2,0,1ump
+Reviewed,P33261,Cytochrome P450 2C19,CYP2C19,Homo sapiens,,1,1,6,0,4gqs
+Reviewed,P36937,Potassium-transporting ATPase KdpF subunit,kdpF,Escherichia coli (strain K12),,1,0,0,0,
+Reviewed,P41181,Aquaporin-2,AQP2,Homo sapiens,,1,1,1,0,4nef
+Reviewed,P47016,Deaminated glutathione amidase,NIT2,Saccharomyces cerevisiae (strain ATCC 204508 / S288c),,1,1,1,0,4hg3
+Reviewed,P47863,Aquaporin-4,Aqp4,Rattus norvegicus,,1,1,1,0,2zz9
+Reviewed,P55087,Aquaporin-4,AQP4,Homo sapiens,,1,1,1,0,3gd8
+Reviewed,P60617,Large ribosomal subunit protein uL16,rpl10e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P60618,Large ribosomal subunit protein eL15,rpl15e,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P60619,Large ribosomal subunit protein eL43,rpl37ae,Haloarcula marismortui (strain ATCC 43049 / DSM 3752 / JCM 8966 / VKM B-1809),,1,0,0,0,
+Reviewed,P9WPF1,Alpha-pyrone synthesis polyketide synthase-like Pks18,pks18,Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv),,1,1,1,0,1ted
+Reviewed,Q06520,Sulfotransferase 2A1,SULT2A1,Homo sapiens,,1,1,3,0,3f3y
+Reviewed,Q13330,Metastasis-associated protein MTA1,MTA1,Homo sapiens,,1,0,0,0,
+Reviewed,Q13547,Histone deacetylase 1,HDAC1,Homo sapiens,,1,1,1,0,4bkx
+Reviewed,Q16647,Prostacyclin synthase,PTGIS,Homo sapiens,,2,2,8,0,2iag 3b6h
+Reviewed,Q16678,Cytochrome P450 1B1,CYP1B1,Homo sapiens,,1,1,3,0,3pm0
+Reviewed,Q16696,Cytochrome P450 2A13,CYP2A13,Homo sapiens,,8,5,7,0,2p85 3t3s 4ejg 4ejh 4eji
+Reviewed,Q16850,Lanosterol 14-alpha demethylase,CYP51A1,Homo sapiens,,3,3,27,0,3jus 3juv 3ld6
+Reviewed,Q1QZR8,L-glutamine synthetase,,Chromohalobacter israelensis (strain ATCC BAA-138 / DSM 3043 / CIP 106854 / NCIMB 13768 / 1H11),,1,1,3,0,5dm3
+Reviewed,Q39ZI0,Uracil-DNA glycosylase-like domain-containing protein,,Geobacter metallireducens (strain ATCC 53774 / DSM 7210 / GS-15),,3,2,2,0,5h98 5h9i
+Reviewed,Q569B4,Ighg protein,Ighg,Rattus norvegicus,,2,0,0,0,
+Reviewed,Q58584,Riboflavin synthase,ribC,Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 / JAL-1 / JCM 10045 / NBRC 100440),,1,1,1,0,4y7j
+Reviewed,Q59337,Catalase,katA,Deinococcus radiodurans (strain ATCC 13939 / DSM 20539 / JCM 16871 / CCUG 27074 / LMG 4051 / NBRC 15346 / NCIMB 9279 / VKM B-1422 / R1),AF-Q59337-F1,1,1,1,4,4cab
+Reviewed,Q60AX2,Bacteriohemerythrin,,Methylococcus capsulatus (strain ATCC 33009 / NCIMB 11132 / Bath),,1,1,1,0,4xpx
+Reviewed,Q6SJY7,Triazine hydrolase,,Paenarthrobacter aurescens,,1,1,1,0,4lh8
+Reviewed,Q6VVX0,Vitamin D 25-hydroxylase,CYP2R1,Homo sapiens,AF-Q6VVX0-F1,3,3,6,1,3c6g 3czh 3dl9
+Reviewed,Q746X3,L-glutamate gamma-semialdehyde dehydrogenase,putA,Geobacter sulfurreducens (strain ATCC 51573 / DSM 12127 / PCA),,1,1,5,0,4nm9
+Reviewed,Q7DD94,Phosphoethanolamine transferase EptA,,Neisseria meningitidis serogroup B (strain ATCC BAA-335 / MC58),,1,1,1,0,5fgn
+Reviewed,Q7NDN8,Proton-gated ion channel,glvI,Gloeobacter violaceus (strain ATCC 29082 / PCC 7421),,59,59,59,0,2xq3 2xq4 2xq5 2xq6 2xq7 2xq8 2xq9 2xqa 3eam 3ehz 3ei0 3lsv 3p4w 3p50 3tls 3tlt 3tlu 3tlv 3tlw 3uu3 3uu4 3uu5 3uu6 3uu8 3uub 4f8h 4hfb 4hfc 4hfd 4hfe 4hfh 4hfi 4il4 4il9 4ila 4ilb 4ilc 4ire 4lmj 4lmk 4lml 4npp 4npq 4qh1 4qh4 4qh5 4x5t 4yeu 4zzb 4zzc 5hcj 5hcm 5heg 5heh 5iux 5j0z 5l47 5l4e 5l4h
+Reviewed,Q7X2H8,Choline oxidase,codA,Arthrobacter globiformis,AF-Q7X2H8-F1,1,1,1,3,4mjw
+Reviewed,Q89E26,Bifunctional protein PutA,putA,Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC 13528 / IAM 13628 / NBRC 14792 / USDA 110),,4,4,4,0,3haz 4q71 4q72 4q73
+Reviewed,Q8TNK0,Large conductance mechanosensitive channel protein,,Methanosarcina acetivorans (strain ATCC 35395 / DSM 2834 / JCM 12185 / C2A),,1,1,1,0,4y7j
+Reviewed,Q8VW87,Beta-fructofuranosidase,bff,Microbacterium saccharophilum,,1,1,1,0,3vss
+Reviewed,Q8WSF8,Soluble acetylcholine receptor,,Aplysia californica,,1,1,1,0,2ymd
+Reviewed,Q90249,Basic phospholipase A2 homolog bothropstoxin-I,,Bothrops jararacussu,,1,1,2,0,4wtb
+Reviewed,Q9A919,Haloalkane dehalogenase,dhmA,Caulobacter vibrioides (strain ATCC 19089 / CIP 103742 / CB 15),,1,1,2,0,5esr
+Reviewed,Q9BY41,Histone deacetylase 8,HDAC8,Homo sapiens,,1,1,1,0,1t69
+Reviewed,Q9WZ31,Cobalt/magnesium transport protein CorA,corA,Thermotoga maritima (strain ATCC 43589 / DSM 3109 / JCM 10099 / NBRC 100826 / MSB8),,4,4,4,0,2bbj 3jcf 4eeb 4eed
+Reviewed,Q9Y6A2,Cholesterol 24-hydroxylase,CYP46A1,Homo sapiens,AF-Q9Y6A2-F1,8,8,18,3,2q9f 2q9g 3mdr 3mdt 3mdv 4enh 4fia 4j14
+Reviewed,R9USI6,p450-like monooxygenase,,Streptomyces griseoviridis,,1,1,3,0,4mm0
+Reviewed,T1SF45,Ketosynthase,mxnB,Myxococcus fulvus,,1,1,2,0,4v2p

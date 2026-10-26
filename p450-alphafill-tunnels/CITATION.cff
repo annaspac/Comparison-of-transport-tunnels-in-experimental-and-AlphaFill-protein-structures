@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Comparison of transport tunnels in experimental and AlphaFill protein structures – code and data"
+version: 1.0.0
+date-released: 2026-10-22
+license: MIT
+authors:
+  - family-names: Špačková
+    given-names: Anna
+    affiliation: Palacký University Olomouc
+  - family-names: Bazgier
+    given-names: Václav
+    affiliation: Palacký University Olomouc
+  - family-names: Berka
+    given-names: Karel
+    affiliation: Palacký University Olomouc
+preferred-citation:
+  type: article
+  title: "Comparison of transport tunnels in experimental and AlphaFill protein structures"
+  journal: "Frontiers in Chemistry"
+  year: 2026
+  authors:
+    - family-names: Špačková
+      given-names: Anna
+    - family-names: Bazgier
+      given-names: Václav
+    - family-names: Berka
+      given-names: Karel

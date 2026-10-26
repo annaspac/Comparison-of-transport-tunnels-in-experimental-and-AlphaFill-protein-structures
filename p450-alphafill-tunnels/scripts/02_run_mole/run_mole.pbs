@@ -1,0 +1,14 @@
+#!/bin/bash
+#PBS -N mole_p450
+#PBS -l select=1:ncpus=8:mem=16gb
+#PBS -l walltime=24:00:00
+#PBS -j oe
+# Example PBS job for MetaCentrum. Edit REPO and MOLE, then submit with:  qsub scripts/02_run_mole/run_mole.pbs
+
+REPO=/storage/brno12-cerit/home/USER/p450-alphafill-tunnels
+MOLE=/path/to/Mole2_cmd/mole2.exe
+
+cd "$REPO"
+module add mono
+python3 scripts/02_run_mole/run_mole.py --mole "$MOLE" --input work/pdb_new       --output mole_out/pdb       --workers 8
+python3 scripts/02_run_mole/run_mole.py --mole "$MOLE" --input work/alphafill_new --output mole_out/alphafill --workers 8
