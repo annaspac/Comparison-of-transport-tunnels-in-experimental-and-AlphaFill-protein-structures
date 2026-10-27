@@ -100,6 +100,6 @@ Code: MIT (see `LICENSE`). Structures are subject to the terms of the PDB and Al
 ## Contact
 
 
-Anna Špačková, Department of Physical Chemistry, Faculty of Science, Palacký University Olomouc – anna.spackova@upol.cz
-Václav Bazgier, Department of Physical Chemistry, Faculty of Science, Palacký University Olomouc – vaclav.bazgier@upol.cz
+Anna Špačková, Department of Physical Chemistry, Faculty of Science, Palacký University Olomouc – anna.spackova@upol.cz;
+Václav Bazgier, Department of Physical Chemistry, Faculty of Science, Palacký University Olomouc – vaclav.bazgier@upol.cz;
 Karel Berka, Department of Physical Chemistry, Faculty of Science, Palacký University Olomouc – karel.berka@upol.cz
