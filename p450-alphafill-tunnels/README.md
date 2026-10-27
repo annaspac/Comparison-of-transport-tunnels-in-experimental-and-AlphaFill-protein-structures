@@ -91,8 +91,7 @@ the exact mapping used in the article.
 
 ## Data
 
-Downloaded structures and raw MOLE outputs are not stored in this repository because of their size;
-they are deposited in Zenodo: DOI 10.5281/zenodo.23666013.
+Experimental structures are available from the Protein Data Bank and AlphaFill models from https://alphafill.eu; the exact identifiers and the UniProt query with its retrieval date are provided in data/. Processed results (all calculated pathways, best-match tables and statistics) are included in results/. Supplementary figures are deposited in Zenodo: https://doi.org/10.5281/zenodo.23666013.
 
 ## License
 
